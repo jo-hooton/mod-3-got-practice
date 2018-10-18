@@ -18,13 +18,16 @@ http://localhost:3000/foods path
 ## STEP 2: Render all the characters on the page
 Character information should include name, image, appetite and status and foods eaten
 
+
 ## STEP 3: Feed the children
 Somewhere on the page there should be a form which has 2 <select /> elements: one for characters and one for foods.
 
 On selecting a character and a food the food name should appear on the list of foods eaten for that character. Each food item should have a delete button to remove that food item from that characters list
 
+
 ## STEP 4: Declare status
 If the character doesn't have any foods in the list their status should be "I'm hungry", If the combined sustanance value for the foods eaten is greater than characters appetite, the status should say "I'm full"
+
 
 ## STEP 5: Add foods
 Create a form to add a food item to the database.
