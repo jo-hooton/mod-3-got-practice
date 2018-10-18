@@ -20,10 +20,9 @@ http://localhost:3000/foods path
 
 Character information should include name, image, appetite and status and foods eaten
 
-
 ## STEP 3: Feed the children
 
-Somewhere on the page there should be a form which has 2 <select /> elements: one for characters and one for foods.
+Somewhere on the page there should be a form which has 2 `<select />` elements: one for characters and one for foods.
 
 
 On selecting a character and a food the food name and sustenance value should appear on the list of foods eaten for that character. Each food item should have a delete button to remove that food item from that characters list.
