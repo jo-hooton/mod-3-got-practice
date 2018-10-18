@@ -30,5 +30,5 @@ On selecting a character and a food the food name should appear on the list of f
 If the character doesn't have any foods in the list their status should be "I'm hungry", If the combined sustanance value for the foods eaten is greater than characters appetite, the status should say "I'm full"
 
 
-## STEP 5: Add foods
-Create a form to add a food item to the database.
+## STEP 5: Add more food items
+Create a form to add a food item to the database and render a taht food in the dropdown list of foods
