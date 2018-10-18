@@ -1,0 +1,24 @@
+{
+  "name": "MOD3-JS-GOT-TASK",
+  "version": "1.0.0",
+  "description": "Build an app to feed the children of Winterfell",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && json-server --watch gotdb.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/16sheep/mod-3-got-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/16sheep/mod-3-got-practice/issues"
+  },
+  "homepage": "https://github.com/16sheep/mod-3-got-practice#readme",
+  "devDependencies": {
+    "json-server": "^0.14.0"
+  }
+}
