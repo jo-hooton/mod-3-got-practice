@@ -1,0 +1,55 @@
+body {
+    font-family: 'Cinzel Decorative', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',
+      sans-serif;
+    font-weight: 300;
+  }
+
+  h1 {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 100%
+  }
+  
+  #container {
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+  }
+  
+  #search-form {
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+  }
+  
+  .list-input {
+    font-size: 3rem;
+    border: 3px solid #818387;
+    color: #25282B;
+  }
+  
+  #house-stark-logo {
+    width: 300px;
+    margin-left: 330px;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  
+  .container {
+    float: left;
+    width: 250px;
+    margin: auto;
+  }
+  
+  .center-text {
+    text-align: center;
+  }
+  
+  
+  .character-img {
+    height: auto; 
+    width: auto; 
+    max-width: 210px; 
+    max-height: 210px;
+  }
